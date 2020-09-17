@@ -1,0 +1,2 @@
+default: -p report
+report: --format html --out ./report/report.html --format pretty
